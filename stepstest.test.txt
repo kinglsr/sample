@@ -1,6 +1,0 @@
-Open browser 
-click on URL
-copy url 
-paste the URL
-Click enter
-close browser.
