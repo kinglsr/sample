@@ -5,7 +5,7 @@ public class day1 {
 	
 	public static void main(String [] args) {
 		//create driver object for chrome browser
-		
+		int i;
 		//we will strictly implement methods for webdriver
 		
 		/*Class name = x;//create object for chrome driver 
